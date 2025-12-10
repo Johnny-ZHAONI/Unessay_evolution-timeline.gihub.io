@@ -39,10 +39,10 @@ const events = {
   },
   "ardipithecus": {
     title: "Ardipithecus ramidus",
-    tagline: "“Ardi” shows a mosaic of arboreal and bipedal traits.",
+    tagline: '"Ardi" shows a mosaic of arboreal and bipedal traits.',
     time: "4.4 million years ago",
     keyPoints: [
-      "Fossils from Ethiopia include a partial skeleton nicknamed “Ardi.”",
+      "Fossils from Ethiopia include a partial skeleton nicknamed Ardi.",
       "Pelvis and some limb features suggest facultative bipedalism on the ground.",
       "Feet retain a grasping big toe, indicating continued use of trees.",
       "Canine teeth are reduced compared to many apes, suggesting changes in social behavior."
@@ -52,10 +52,10 @@ const events = {
   },
   "afarensis": {
     title: "Australopithecus afarensis",
-    tagline: "“Lucy” and other fossils show committed bipedalism.",
+    tagline: '"Lucy" and other fossils show committed bipedalism.',
     time: "3.9–2.9 million years ago",
     keyPoints: [
-      "Best known from the famous “Lucy” skeleton and multiple individuals at Hadar and Laetoli.",
+      "Best known from the famous Lucy skeleton and multiple individuals at Hadar and Laetoli.",
       "Pelvis, femur, and vertebral column clearly support habitual bipedal walking.",
       "Laetoli footprints preserve evidence of upright walking with a human-like gait.",
       "Brain size is still small, similar to modern chimpanzees.",
@@ -66,7 +66,7 @@ const events = {
   },
   "homo-habilis": {
     title: "Homo habilis",
-    tagline: "“Handy man” associated with early stone tools.",
+    tagline: '"Handy man" associated with early stone tools.',
     time: "2.5–1.8 million years ago",
     keyPoints: [
       "Fossils show slightly larger brain size than Australopithecus, with more rounded cranial vaults.",
@@ -101,7 +101,7 @@ const events = {
       "Genetic studies show interbreeding between archaic humans and early Homo sapiens."
     ],
     significance:
-      "Archaic humans demonstrate that our lineage was never a single straight line of “almost humans” but a branching network of populations that sometimes mixed genetically."
+      "Archaic humans demonstrate that our lineage was never a single straight line of almost humans but a branching network of populations that sometimes mixed genetically."
   },
   "homo-sapiens": {
     title: "Homo sapiens",
@@ -155,3 +155,4 @@ function setupTimeline() {
 }
 
 document.addEventListener("DOMContentLoaded", setupTimeline);
+
